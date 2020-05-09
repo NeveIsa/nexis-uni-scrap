@@ -19,4 +19,4 @@ for ticker in tickers:
         os.environ["SEARCHTERM"]="ticker({})".format(ticker)
         #os.system("sh test.sh")
         os.system("jupyter nbconvert --ExecutePreprocessor.timeout=600 --to notebook --execute scrap-clean-code.ipynb") 
-    print(f"-------------------------- end |  {} | {} ------------------------------".format(ticker,datetime.datetime.now().isoformat()))
+    print("-------------------------- end |  {} | {} ------------------------------".format(ticker,datetime.datetime.now().isoformat()))
