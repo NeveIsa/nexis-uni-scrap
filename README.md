@@ -15,7 +15,7 @@ if required to restart all download from begining, delete the ticker from done.t
 
 run `python SUPERVISOR.py`
 
-if you kill SUPERVISOR.py, run `sh kill.sh`
+if want to kill SUPERVISOR.py, alsways run `sh kill.sh`
 
 **CAUTION: SUPERVISOR.py kills firefox programs after it finished one ticker, do not use firefox browser for personal browsing while running SUPERVISOR.py**
 **CAUTION: kill.sh will kill all firefox and python programs running on your machine**
