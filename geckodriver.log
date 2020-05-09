@@ -333,3 +333,45 @@ JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-def
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1589051547745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNHjLsp"
+*** You are running in headless mode.
+1589051548267	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589051548307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589051548307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589051548308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589051548308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589051551446	Marionette	INFO	Listening on port 41893
+1589051551474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:18984): GLib-GObject-CRITICAL **: 19:13:42.860: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:18984): GLib-GObject-CRITICAL **: 19:14:06.010: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:18984): GLib-GObject-CRITICAL **: 19:14:28.698: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:18984): GLib-GObject-CRITICAL **: 19:14:51.310: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:18984): GLib-GObject-CRITICAL **: 19:15:13.564: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:18984): GLib-GObject-CRITICAL **: 19:15:35.978: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:18984): GLib-GObject-CRITICAL **: 19:15:58.476: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:18984): GLib-GObject-CRITICAL **: 19:16:21.673: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:18984): GLib-GObject-CRITICAL **: 19:16:43.827: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null

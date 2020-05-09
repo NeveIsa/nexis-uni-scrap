@@ -85,7 +85,7 @@ def download_file(searchTerms, download_folder, url = url, username = username, 
         
         try:
             
-            __DRIVER = "OP" #  OP -opera
+            __DRIVER = "FF" #  OP -opera
 
             if __DRIVER=="FF":
                 #### FIREFOX OPTIONS
@@ -100,7 +100,7 @@ def download_file(searchTerms, download_folder, url = url, username = username, 
                 #make headless
                 from selenium.webdriver.firefox.options import Options
                 __options = Options()
-                __options.headless = False
+                __options.headless = True
                 browser = webdriver.Firefox(executable_path = path_to_ffdriver,firefox_options=__options,firefox_profile=profile)
 
 
