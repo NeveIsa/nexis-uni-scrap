@@ -427,3 +427,219 @@ JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-def
 JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
 JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
 1589052612810	Marionette	INFO	Stopped listening on port 32951
+1589053968393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegB8vFX"
+*** You are running in headless mode.
+1589053968885	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589053968929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589053968929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589053968930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589053968930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589053972197	Marionette	INFO	Listening on port 40581
+1589053972211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21176): GLib-GObject-CRITICAL **: 19:54:00.707: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/core-en-US?ver=10.1.2001.22, line 84: TypeError: e.transport is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21176): GLib-GObject-CRITICAL **: 19:54:26.123: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+1589054197112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeWoeSY"
+*** You are running in headless mode.
+1589054197620	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589054197663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589054197663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589054197663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589054197663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589054200918	Marionette	INFO	Listening on port 46529
+1589054200953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 19:57:50.152: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 19:58:13.141: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 19:58:36.107: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 19:58:58.773: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 19:59:22.321: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 19:59:45.348: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:00:09.608: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:00:32.166: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:00:54.205: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:01:16.557: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:01:38.624: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:02:00.990: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:02:24.954: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:02:46.991: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:03:12.026: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/core-en-US?ver=10.1.2001.22, line 84: TypeError: e.transport is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:03:34.175: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:03:56.451: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:04:18.607: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:04:41.332: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:05:03.464: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:05:28.735: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:05:51.323: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:06:17.435: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:06:40.239: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:07:02.382: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:07:24.355: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:07:46.649: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:08:08.857: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+(firefox:21803): GLib-GObject-CRITICAL **: 20:08:31.981: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1589054915341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezRB6FN"
+*** You are running in headless mode.
+1589054915906	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589054915954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589054915954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589054915955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589054915955	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589054919483	Marionette	INFO	Listening on port 42041
+1589054919557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+1589055735675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei1T7kf"
+*** You are running in headless mode.
+1589055736135	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589055736175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589055736175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589055736175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589055736175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589055739012	Marionette	INFO	Listening on port 44665
+1589055739087	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+1589056095612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqrRXql"
+*** You are running in headless mode.
+1589056096111	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589056096170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589056096171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589056096171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589056096171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589056099471	Marionette	INFO	Listening on port 44987
+1589056099547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+1589056454379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebFxbje"
+*** You are running in headless mode.
+1589056454899	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589056454939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589056454940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589056454940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589056454940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589056457879	Marionette	INFO	Listening on port 39005
+1589056457912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1589056635628	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0tqTAS"
+*** You are running in headless mode.
+1589056636099	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589056636138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589056636138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589056636139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589056636139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589056776891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR6qJ4T"
+*** You are running in headless mode.
+1589056777359	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589056777399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589056777399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589056777399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589056777400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589056780426	Marionette	INFO	Listening on port 40505
+1589056780543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null

@@ -659,8 +659,10 @@ if __name__ == "__main__":
 
         val = download_file(searchTerms = searchTerms, download_folder = __download_folder, enddate=__enddate )
         
+        print("Download Method return code ->",val)
         ## SAVE PROGRESS IF FINISHED
         if val==7:
+            print("-> Writing to done.txt ...")
             with open("done.txt",'a+') as g:
                 g.write(searchTerms+"\n")
         

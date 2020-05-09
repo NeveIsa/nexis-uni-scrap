@@ -6,7 +6,7 @@ import datetime
 os.system("sh convert.sh")
 
 #make required dirs
-os.system("mkdir -p download/temp")
+os.system("mkdir -p browser/download/temp")
 
 
 with open("tickers.txt") as f:
