@@ -28,6 +28,8 @@ for ticker in tickers:
     if "ticker({})".format(ticker) in __done:
         print("Already done -> ", ticker)
     else:
+        print("Not done yet -> ",ticker)
+        print(ticker)
         os.environ["SEARCHTERM"]="ticker({})".format(ticker)
         #os.system("sh test.sh")
 
