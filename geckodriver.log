@@ -1242,3 +1242,26 @@ webdriverClickElement@chrome://marionette/content/interaction.js:182:31
 1589014945099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1589014949854	Marionette	INFO	Listening on port 35199
 1589014949930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+1589015055541	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRG7wkc"
+1589015056416	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589015056465	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589015056466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589015056466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589015056466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589015061716	Marionette	INFO	Listening on port 41045
+1589015061788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+1589015096437	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletgcqVm"
+1589015097023	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589015097063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589015097063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589015097064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589015097064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589015100834	Marionette	INFO	Listening on port 46661
+1589015100859	Marionette	WARN	TLS certificate errors will be ignored for this session
