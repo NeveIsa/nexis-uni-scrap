@@ -33,7 +33,7 @@ for ticker in tickers:
         os.environ["SEARCHTERM"]="ticker({})".format(ticker)
         #os.system("sh test.sh")
 
-        while not ticker in isdone():
+        while not (ticker in isdone()):
             print("---> RUNNING -> {}".format(ticker))
             #os.system("jupyter nbconvert --ExecutePreprocessor.timeout=600 --to notebook --execute scrap-clean-code.ipynb") 
             os.system("python scrap-clean-code.py")
