@@ -1,0 +1,8 @@
+numpy
+jupyter
+python-docx
+selenium
+pandas
+dateutils
+runipy
+
