@@ -13,7 +13,7 @@ with open("done.txt") as f:
 for ticker in tickers:
     print("-------------------------- start |  {} | {} ------------------------------".format(ticker,datetime.datetime.now().isoformat()))
     
-    if f"ticker({})".format(ticker) in __done:
+    if "ticker({})".format(ticker) in __done:
         print("Already done -> ", ticker)
     else:
         os.environ["SEARCHTERM"]="ticker({})".format(ticker)
