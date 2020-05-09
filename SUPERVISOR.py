@@ -17,5 +17,5 @@ for ticker in tickers:
     else:
         os.environ["SEARCHTERM"]=f"ticker({ticker})"
         #os.system("sh test.sh")
-        os.system("runipy scrap-clean-code.ipynb") 
+        os.system("jupyter nbconvert --ExecutePreprocessor.timeout=600 --to notebook --execute scrap-clean-code.ipynb") 
     print(f"-------------------------- end |  {ticker} | end ------------------------------")

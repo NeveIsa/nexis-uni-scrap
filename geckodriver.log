@@ -1359,3 +1359,80 @@ JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-def
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1589017842919	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileceJ21r"
+1589017843479	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589017843523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589017843523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589017843524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589017843524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589017847289	Marionette	INFO	Listening on port 34309
+1589017847369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+1589018006327	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ9Ezj8"
+1589018007009	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589018007056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589018007056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589018007057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589018007057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589018011490	Marionette	INFO	Listening on port 39935
+1589018011562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589018046455	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTrIj7G"
+1589018047221	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589018047270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589018047270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589018047270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589018047270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589018051699	Marionette	INFO	Listening on port 37857
+1589018051785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+1589018142046	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9EMigx"
+1589018142776	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589018142830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589018142830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589018142830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589018142830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589018147640	Marionette	INFO	Listening on port 41589
+1589018147682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1589018151184	Marionette	INFO	Stopped listening on port 34309
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+JavaScript error: https://advance-lexis-com.libproxy2.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1589018274034	Marionette	INFO	Stopped listening on port 41589
+1589018435556	mozrunner::runner	INFO	Running command: "/usr/local/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCQ32Mk"
+*** You are running in headless mode.
+1589018436202	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589018436245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589018436245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589018436246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589018436246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1589018439748	Marionette	INFO	Listening on port 34087
+1589018439786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://advance-lexis-com.libproxy1.usc.edu/bundles/search-default-bisacademic-en-us?ver=10.1.2001.22, line 7: TypeError: i is null
