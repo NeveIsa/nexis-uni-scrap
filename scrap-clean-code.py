@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 with open("tickers.txt") as f:
@@ -11,7 +11,7 @@ with open("tickers.txt") as f:
 #print(tickers)
 
 
-# In[ ]:
+# In[2]:
 
 
 ### IMPORTS
@@ -36,7 +36,7 @@ from xml.etree.cElementTree import XML
 import sys
 
 
-# In[ ]:
+# In[3]:
 
 
 ### CONFIGS
@@ -71,7 +71,7 @@ __default_enddate = "December.2014"
 __default_startdate = "January.2005"
 
 
-# In[ ]:
+# In[4]:
 
 
 ### DOWNLOAD METHOD
@@ -85,7 +85,7 @@ def download_file(searchTerms, download_folder, url = url, username = username, 
         
         try:
             
-            __DRIVER = "FF" #  OP -opera
+            __DRIVER = "OP" #  OP -opera
 
             if __DRIVER=="FF":
                 #### FIREFOX OPTIONS
@@ -100,7 +100,7 @@ def download_file(searchTerms, download_folder, url = url, username = username, 
                 #make headless
                 from selenium.webdriver.firefox.options import Options
                 __options = Options()
-                __options.headless = True
+                __options.headless = False
                 browser = webdriver.Firefox(executable_path = path_to_ffdriver,firefox_options=__options,firefox_profile=profile)
 
 
@@ -479,7 +479,7 @@ def download_file(searchTerms, download_folder, url = url, username = username, 
             print("restarting")
 
 
-# In[ ]:
+# In[5]:
 
 
 ### UTILITIES AND HELPERS
@@ -561,7 +561,7 @@ def create_index(download_folder, searchTerms):
     return index
 
 
-# In[ ]:
+# In[6]:
 
 
 ### FIX AND SCRIPT SUPERVISOR HELPERS

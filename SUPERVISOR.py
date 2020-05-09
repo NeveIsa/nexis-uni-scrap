@@ -9,7 +9,8 @@ with open("tickers.txt") as f:
 
 def isdone():
     with open("done.txt") as f:
-        __done = f.read().split("\n")
+        __done = f.read().strip().split("\n")
+        return __done
 
 for ticker in tickers:
     print("-------------------------- start |  {} | {} ------------------------------".format(ticker,datetime.datetime.now().isoformat()))
