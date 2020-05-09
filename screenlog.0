@@ -1,0 +1,2701 @@
+root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01:~/shuyi/nexis-uni-scrap# ls
+[0m[01;34mbrowser[0m  done.txt  geckodriver.log  req.txt  scrap-clean-code.ipynb  scrap-clean-code.py  screenlog.0  SUPERVISOR.py  test.sh  tickers.txt
+root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01:~/shuyi/nexis-uni-scrap# fish
+]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[mWelcome to fish, the friendly interactive shell
+Type [32mhelp[30m(B[m for instructions on how to use fish
+]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                                                                   root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi/nexis-uni-scrap[30m(B[m[0m[01;34mbrowser[0m/  done.txt  geckodriver.log  req.txt  scrap-clean-code.ipynb  scrap-clean-code.py  screenlog.0  SUPERVISOR.py  test.sh  tickers.txt
+]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                                                                   root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Kp[31m[1mp(B[m[38;5;240mkill python[11D[30m(B[m[31m[1my(B[m[K[38;5;240mthon scrap-clean-code.py [25D[30m(B[m[31m[1mt(B[m[38;5;240mhon scrap-clean-code.py [24D[30m(B[m[31m[1mh(B[m[38;5;240mon scrap-clean-code.py [23D[30m(B[m[31m[1mo(B[m[38;5;240mn scrap-clean-code.py [22D[30m(B[m[31m[1mn(B[m[38;5;240m scrap-clean-code.py [21D[30m(B[m[38;5;26mpython[38;5;240m scrap-clean-code.py [21D[30m(B[m[38;5;26m scrap-clean-code.py [30m(B[m[21D [38;5;39mscrap-clean-code.py[30m(B[m 
+[30m(B[m]0;python  /root/shuyi/nexis-uni-scrap[30m(B[mTraceback (most recent call last):
+  File "scrap-clean-code.py", line 20, in <module>
+    from selenium import webdriver
+ImportError: No module named selenium
+]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                                                                   root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [K.[38;5;26m.[30m(B[m[38;5;240m ../bin/activate.fish [22D[30m(B[m[38;5;26m [38;5;240m../bin/activate.fish [21D[30m(B[m [38;5;240m../bin/activate.fish [21D[30m(B[m.[38;5;240m./bin/activate.fish [20D[30m(B[m[38;5;39m[4m.[38;5;240m[24m./bin/activate.fish [20D[30m(B[m[38;5;39m[4m.[38;5;240m[24m/bin/activate.fish [19D[30m(B[m[38;5;39m[4m/bin/activate.fish [30m(B[m[21D[38;5;39m../bin/activate.fish[30m(B[m 
+[30m(B[m]0;.  /root/shuyi/nexis-uni-scrap[30m(B[m]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                                                                   [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [K. ../bin/activate.fish [23D[38;5;26m.[30m(B[m [38;5;39m../bin/activate.fish[30m(B[m [23D[38;5;26mp[30m(B[my[38;5;39mthon scrap-clean-cod[30m(B[me.py [26D[38;5;26mython[30m(B[m [38;5;39mscrap-clean-code.py[30m(B[m 
+[30m(B[m]0;python  /root/shuyi/nexis-uni-scrap[30m(B[m
+STARTING FULL DOWNLOAD TILL ---> December.2014
+
+
+scraping starts
+junhuihe login in successfully
+publication type is set
+source is set
+time range is set
+subject is set
+we'll scrape down 609 files related to 'ticker(ORCL)'
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="9332518a-5d11-450b-8cb7-b663d99975c6")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page1_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="6d4eb0d7-772f-4425-bd64-2461a09a1082")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page2_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="f427cae8-f990-4e0b-8e63-db0e437e1079")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page3_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="b10d39c1-69e7-45eb-87a9-4770d5b82931")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page4_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="8fe6d73e-f538-4543-be8d-ead7f584c4a7")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page5_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="a0be8119-dc83-4179-b731-80ea4b69a126")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page6_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="240b0185-9284-4a79-98ea-2f41241b05cb")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page7_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="a798d2c0-fb29-47b0-b913-b196e096a209")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page8_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="24e3af10-36db-4f6f-9e70-253be3a0b4d6")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page9_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="8be2d52b-fe35-4e6c-ae82-bf8c3cbdb861")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page10_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="09be37ec-9d6f-434c-9e81-eaae6f20ba39")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page11_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="8c516128-2568-409e-8e02-dce967c8571a")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page12_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="6b858875-9df7-4b46-b6f4-f948556ad5d4")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page13_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="6649464e-bafd-46e5-9224-864e2c5a9ba1")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page14_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="8203ce20-2805-4732-b9de-d169d702535b")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page15_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="7436f73e-73dd-4792-8dd7-fd46a0a7e56a")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page16_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="64caee7e-5288-4a9f-b575-d9d9f2b22f6b")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page17_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="3d111df7-1be6-4366-996b-4f4f4e214baf")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page18_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="70fb5e16-c277-4ed1-b17b-fa3dc2a38cc2")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page19_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="e2fc60f8-3421-45d7-b54b-1d8a178ebcb0")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page20_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="ed820b0d-80cd-4a69-9b4d-492f6badb17d")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page21_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="98e5b0b6-e7cd-4e28-a242-cfd0f55ba2ff")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page22_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="c37139eb-b37b-4fc1-8451-f81944132394")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page23_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="5f469f0b-1dbb-498f-991b-9d03687fee1f")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page24_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="be1f165a-0afc-4a61-8378-7b2f483d6747")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page25_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="a0d7c6f7-6f9f-42e1-a616-29e3a8d3bf57")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page26_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="d7dea93b-aa97-4862-9c62-d83da8794777")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page27_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="83938063-59c5-449a-aac8-ed0444d0a96f")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page28_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="864ba814-7ff8-4df2-aab9-f282219d8fc5")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page29_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="f6260141-f5bc-45c4-87d4-0db715f58804")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page30_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="f0539c21-b4c9-4bc4-8e9e-2d81943d0cb4")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page31_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="ea6bccb7-cb93-492e-8966-aa7f66718bcd")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page32_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="539504e8-56cc-4372-bb50-13ebd70bdbaf")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page33_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="52c68830-cfe5-4ea3-9a12-722a5a92e161")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page34_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="7e24df1c-2753-4233-82fb-44833dd571b0")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page35_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="8e157b03-812e-40b8-a8ae-c2b389e49e26")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page36_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="a34f9520-d105-44d8-beb5-b14b8e9bf021")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page37_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="264ffea6-d6a6-47a5-afbb-1e90a4a66f81")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page38_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="fd059814-cb84-4863-8e2d-f49e097650f8")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page39_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="6f8bea7d-79a0-471f-9884-9aba19b3f4f5")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page40_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="68fb7b80-5163-4859-8fbd-c59b212ad42e")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page41_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="78510c80-f722-45ed-885e-a6c54c2d8a94")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page42_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="4d0a9874-b737-4da6-aa86-0d1de04fc405")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page43_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="9cefc559-cb74-4054-a8b8-3fd09631d90e")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page44_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="0e8659b3-0c5a-45ec-9f12-b154f4f0da70")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page45_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="e468538a-b016-469f-b526-a01dc9710c4e")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page46_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="0ad3ec37-7c49-4e4e-91dd-d789cc5c9c3a")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page47_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="eb02d38e-6499-454d-905f-39965957bcee")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page48_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="7cd46b38-04a4-46cb-8ca6-46dc777addc1")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page49_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="28902d6c-7704-49af-bf92-4c00c771719b")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page50_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="4ba5b040-b2e8-4862-99c7-f95b30bab1f6")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page51_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="6ac7ed39-dbfc-4e12-8401-c925afc029ae")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page52_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="7229d362-934c-42b2-8993-1810760ca7e2")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page53_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="5951fa3b-1aee-47f3-9b44-16631cdd4aa9")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page54_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="7a106253-7705-4699-bf06-d266077575b5")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page55_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="6f2050c1-6ce8-4a63-810f-6acadd01de72")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page56_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="b5cc9fc1-87a4-466a-b7ed-7909d377b43a")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page57_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="64431ede-5986-4b2c-955c-72a169035672")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page58_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="ef9c6f12-f977-4de4-9cfd-f575a7cef844")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page59_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="0ee72d6c-4de9-47b1-b8d9-18a56721e934")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page60_61
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="380875a8-2660-47ad-8131-f200c4620405", element="a0b1cacb-7c38-4cd0-8a96-29092f9a2ffb")>
+-> Closing the Download Window...
+6,082 results for ticker(ORCL) (narrowed)
+finishing page61_61
+FINISHED!
+
+STARTING FULL DOWNLOAD TILL ---> December.2014
+
+
+scraping starts
+junhuihe login in successfully
+publication type is set
+source is set
+time range is set
+subject is set
+we'll scrape down 3136 files related to 'ticker(MSFT)'
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="66d3aab5-59b6-4853-826e-c49377e84187")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page1_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ce2eeda6-ef79-4e4b-a41f-bbb6e94813b0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page2_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="505664b8-0621-452e-9ad6-1986c9f75155")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page3_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="3e73467f-5079-4136-8e72-8fa2e0750c78")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page4_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="4daa0643-9a19-405f-953b-2e56bb8e9cbe")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page5_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="cc80e0ed-8547-44e0-8c05-25c92fd4de2d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page6_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="9e819d6f-2339-43d1-8ae8-930035fbfbf8")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page7_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="66c4507a-4d16-4b42-9171-9b2ac72b3d90")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page8_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="094b5142-8a72-4e61-bcf9-8a6bbdbb4a61")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page9_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1f1f4a28-3433-439a-b632-45652fec49c0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page10_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="657be02f-05cf-482b-a7c3-9f7f97cf530b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page11_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6a95e3b9-3fd6-4428-b455-d5ef2aea94d1")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page12_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="e1285bff-40d4-4eb4-b662-c6c7b1f5a517")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page13_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="01373db7-9917-47f9-9189-1618777e6219")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page14_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f83def73-0873-4051-b393-674f265e21b5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page15_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f263b5db-1ebf-4c3c-b310-6cd7ae6eb87c")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page16_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5f707937-a70b-42f4-b60b-1b0c0a117527")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page17_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="4b32e7fe-821f-4a8c-927c-142b65462e5c")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page18_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="89af1b99-c8cd-4a1d-9d8a-d1874c91aabb")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page19_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8fcc9e55-98b9-4e8a-9c5a-4cafa070cbf2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page20_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b7a7562e-c427-4a82-bd76-0fe63e504f67")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page21_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="9e3821e5-94f8-4e18-ab5d-b9f0c2947ebc")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page22_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="86bae529-5433-47a6-8b8c-b5d8519cb286")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page23_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="a8a0fd42-3176-48b2-8ce5-f859f03ab4c6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page24_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d9387085-a153-4110-8206-d0ef750c035a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page25_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="36be53db-3e73-433c-901d-3ecb73f2df2b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page26_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="fed56482-8825-41d1-ae06-129baf3d6d39")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page27_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="920bb8bb-6592-4407-9502-740bdd86bd05")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page28_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="4ac8ba0c-fa21-4a48-90ce-ff6a1afd9ee0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page29_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f0ca7297-63df-4a25-82f0-7cc563d2e4c1")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page30_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b65a27a2-86f2-42a5-9071-42d60edeaa71")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page31_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="be734cda-44d5-401c-bba8-eab881da6869")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page32_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="a7542117-cd2d-452e-aaa7-e4ed6459e7c8")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page33_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ae93ca6b-9337-4056-a12d-3be8ded4dd31")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page34_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="64fa4595-c17b-44ec-bdee-daf5fa6748b8")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page35_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="764fa916-2f36-48dd-9978-68508f405e45")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page36_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ce248d7a-28f3-48d7-abf9-93191959c2f7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page37_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="01d35763-75f0-4b96-a5b1-3e392daaae32")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page38_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="55f49ce4-1825-473c-8c29-622d9a62f44a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page39_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d4f500e1-5745-4540-90a0-ca3f80161075")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page40_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b3774e3e-ec55-4ae2-b310-c9972668440c")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page41_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="75a3935f-673c-412f-83a9-7bb38ed18692")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page42_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5567c4ab-2f21-49db-9214-a8b7267a4b13")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page43_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="60728d2e-d7ff-4b3c-a3c9-16d22c76ac57")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page44_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d1915ba3-4097-4c68-9c7d-c7f6a6ffcc5c")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page45_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="af4b7d7f-087c-4aea-9965-264d247872b5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page46_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="c876f3fb-e4d1-4d39-ab2e-e00e5178600a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page47_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="20d3ad48-38bd-4bb8-8f88-ae236b67d1ce")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page48_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="063c7d1d-24fa-480d-aba6-843798fe655d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page49_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="44579a7b-1986-43c0-bf17-c406cac48c64")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page50_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8867021e-7d28-4290-a44f-7d90fe3fdcfe")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page51_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="09baedef-beff-4499-88f7-a27cc457cec8")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page52_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="cb82247a-ef0e-497e-860d-7c657d75cdb8")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page53_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5ce7be80-da1a-4ff5-900b-f5e0d7f7023a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page54_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="86a539b9-9c7b-4bed-a015-6a27958d9458")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page55_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d3cbfe0b-00cd-4eb6-abcd-b9bf3e07de72")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page56_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="915a435a-b28c-40a7-92fd-c4d4188f3232")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page57_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1f5dd1dc-05b3-436b-b916-b2c478578c28")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page58_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5be61731-7233-488a-8fe8-ba0453eb7de5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page59_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="c4c15005-db84-4dbb-bdd5-a58fae62b05c")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page60_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="bf71dc1a-75c1-4acb-9c38-87dd0d79887d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page61_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6e38051f-aed4-4376-ad1e-4bbf045b4e5f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page62_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="a277115d-6119-4ef2-9126-9667c767e2b1")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page63_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="88c6d80b-9998-4186-97ef-7f3fe91346b9")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page64_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="705e0d7e-decf-4da4-9686-187b28699649")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page65_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="807a1987-76d7-4e37-b580-03f5f39e4161")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page66_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d0befe00-8e11-4f34-a626-f64503d73ef1")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page67_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b1d62a31-7751-44e1-9281-3fcb49115570")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page68_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="c74a71ba-2429-4777-b9a7-0904e507e092")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page69_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2736ce71-d543-4114-b572-d670d4222cc0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page70_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="7982958d-cd7a-45ae-9409-76d5f7a260e0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page71_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="def30f9b-ecf6-4162-bcdb-fb174104d13b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page72_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="671d9564-73c3-45da-9f18-caab04fc6313")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page73_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="06240c26-2976-4221-bf19-46ad2f4e3e41")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page74_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1f3ae212-26d5-4a1b-8c29-7bce806493cd")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page75_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5dd177fe-6c0a-4e5a-bff8-8aad96139aa9")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page76_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b6e52bec-6308-4eba-8c04-1f65ce3f3d2e")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page77_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b8a9cfc7-0f32-42d4-82ba-e8b050242d33")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page78_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="da695f9d-7405-47f2-8895-b519144a9f59")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page79_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="c626e257-0431-44a6-b574-4b4a06ed307f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page80_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2d4c4cdc-462b-4c9d-ae8c-e1ef6acbbe61")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page81_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="53417206-7264-41b5-acef-7daf2142a997")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page82_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="425708a9-1639-4cb7-8ef2-c46384608ef6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page83_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="44e89e0c-5b44-4588-bbb3-6bea05ac6a34")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page84_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="4a789f2e-6ace-492d-9d84-e25dcc054b47")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page85_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="54b88a1c-908d-4af8-80a1-06ff2aa24b12")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page86_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="370ab7a5-9e66-4f3d-a277-78eaa10c7a01")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page87_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="e7e87de6-8cb2-47c0-8aea-1f256b2378f3")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page88_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6a7db706-0689-49b3-a83e-e6ffcf4951c1")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page89_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b279beb0-037c-4ab4-8cfd-d907f6825b65")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page90_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8bfe746a-2a9a-48f0-9a30-9fdc432ae235")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page91_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6019c09d-061f-4edd-9bab-6201dcba13a0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page92_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ab336b5f-1192-47d9-b8f5-bab84077a3a5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page93_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="df89c725-718a-4923-a45f-e45fd8e38c11")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page94_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5793d9bd-a69b-458b-b1b0-a5f4360dac4f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page95_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="926a56d4-d6ff-42ac-9918-3f586392031e")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page96_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ab8cca69-f9fd-43e1-92ad-3035920f071d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page97_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b6b28680-8fdb-431c-bbc2-a82d924db598")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page98_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5eb725a5-a5de-4406-998c-8f7761fa0129")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page99_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="0cf13cc7-15ed-48fe-b78c-e47a5df16724")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page100_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1b025b52-30a9-46ca-ac43-c6bd09fbee4e")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page101_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f5920dc6-ca33-46fe-9eaa-454db78e2e1f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page102_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="c52e5ac2-1332-488a-bf72-ea4d45501877")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page103_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2e4cae0e-56a6-4561-8dfa-a28cc4a92fbf")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page104_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5c5bba42-10ac-4dfc-84b9-b1b8664c8550")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page105_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="42413e5c-a5d1-4ee6-9ff3-a4c8c29dcbdd")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page106_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="439db7fa-2107-4cfc-80f3-df83a62f72ff")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page107_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="e23ba051-0bb4-47e4-b47b-34647853c379")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page108_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="607b93b7-6c62-43fc-b772-0fd6993c24a7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page109_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="29a7f37d-f54e-4b66-8dd6-801e1089b1db")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page110_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="0cd970b5-6e85-43ec-ab07-b756e013cd50")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page111_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="361ca389-74e3-4159-94c0-57ee2f765e8a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page112_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ed004b01-e2b6-4e70-abcd-867d8cc9e501")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page113_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="66058b71-0571-4095-9aae-208f4189c091")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page114_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="7978f0f2-21b7-4246-aaa6-c86316427cb7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page115_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2f8cfac2-a823-45c3-9a66-96b110ab97fa")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page116_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="87f9ea01-ff52-4ae2-b07e-e2b6ab227b44")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page117_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="23f197be-4143-4dd6-bc5c-4903ab57ddcc")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page118_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="0e5f6b49-78d4-47f0-8139-434168dc441a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page119_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d62fc2f5-74f2-4786-910e-2531770e729f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page120_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="bf167f4e-79ae-45e2-a27b-608253c8880e")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page121_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d41ed162-f0af-4503-a41e-68bc42786f32")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page122_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="387872c8-d50e-4674-a44d-82202ca74eaa")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page123_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="087302a5-9781-4618-9cd8-ebecc2199df8")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page124_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="3ed2f856-a5b2-4f8d-8343-ebbe2a21f76a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page125_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="e46a2431-8715-4a43-af6b-7883043ef141")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page126_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="7304fae7-aef5-4f8d-b034-c053057db4fd")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page127_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="3463263a-e8ed-449b-b3fc-57d58df1c20d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page128_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="79a70163-fe80-4ffa-a2e6-389ba9a59876")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page129_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="afd0c340-3e3a-4772-b53f-3c37e41a48e5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page130_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="fa86bd6a-e661-4b22-8412-7e725ee632d2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page131_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f3ed3511-8b83-4619-b73d-59aa5de522af")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page132_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5eb4b2bf-de6b-436f-be00-35407e837fb5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page133_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b432295b-04c8-49c2-a469-30b996ad8d3d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page134_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="3799e473-6163-4637-ba7d-23fd27f24566")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page135_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="0b0faa49-a1bc-4ee2-9a17-a1a2ecf1150b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page136_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="54fc50e2-c4e0-4440-8e85-912485d1b3f9")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page137_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="3cd5976b-d5a2-4f20-b6ce-b27476f45415")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page138_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="31de9034-90a3-489e-8cf2-307f859385b9")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page139_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1a52fad4-c4a5-4dde-8595-36592b28d81d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page140_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="7c999eee-79d4-4e61-8e10-c154c0bda515")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page141_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6eb9f025-5c87-4199-a8c2-d78e7d11b390")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page142_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1cf2eabd-44fc-4af1-88d0-98e5d744ea99")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page143_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="895c92d3-2ac7-454d-a399-cdcd937a02f8")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page144_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="593fa51e-a041-4ecf-9eeb-4fea723e3cd9")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page145_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8c8b66f7-cc23-41c8-848e-be2210f684fd")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page146_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="46481dd6-39de-4424-b55c-8e6903bb01c6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page147_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="530d04ae-c077-43e0-b36b-d01759b1e66c")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page148_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b5d2ed97-094c-4ae9-8b01-f5126e7fc38f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page149_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2a16c8b7-b430-4c09-a0de-2cb4d50a8f63")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page150_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d9d9c289-a71b-4869-8431-b19d49344642")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page151_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8d05d856-dd1c-4f76-9d51-947f91d25278")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page152_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="7cc9c77f-b28f-4e20-9aa3-b46028d6be7d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page153_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ef13770a-74f5-4d0a-9383-2dd447222096")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page154_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="0e3df2f8-a97d-43b6-98cb-2b3e4c27e8a3")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page155_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f9bb3882-7675-41a7-b13e-4a1419e76675")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page156_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6e620d0b-1998-4d9a-8628-6048e9d02f1a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page157_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b0079d58-01ae-4808-ab36-11175d86df43")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page158_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1b3edc81-ac6a-425b-b559-84c7cb340b4a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page159_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="921cf290-8970-4111-bd9b-67b1762793b0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page160_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="65d175fc-22f2-4a77-962a-5f2724ef13c6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page161_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1ba42924-7fe8-470f-b9af-27a3f3e7ce24")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page162_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5bb3dab0-5f68-43a5-9584-9248f30d82f3")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page163_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="036361c6-a036-427d-b5f5-5112e5538ff7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page164_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="7073e201-3b92-4e16-a5ff-0d5fd5c02de5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page165_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="203683b0-757b-41f2-a27c-8fe7a6947f24")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page166_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ab8456da-0744-45e6-a385-6d4a005b7ea2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page167_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="29f3f975-9f6e-4029-9ce2-10d4a280ed97")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page168_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="475a0c07-f756-413d-91f3-a1970657b328")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page169_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5c8cf58c-ebe9-4768-bfa8-6e82937fc6b0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page170_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f397f6b8-a2d7-445e-a149-639a47b70e80")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page171_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d0a75491-d37d-4f24-bb73-d83d415970d9")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page172_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="dab89bb5-4d0d-4999-8bdf-c0947d94ba9f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page173_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="02b0a10e-3bdb-48f9-a9c0-68812e51c1c7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page174_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="625b3808-91ff-43a2-bac3-3719c5c4aaed")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page175_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="665f9642-58c1-450c-b82a-3b263d30b928")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page176_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="446ba7c9-ac34-4f9f-a798-e1df996ef7db")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page177_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="71b68e2f-a5b5-4999-87c4-b29e80876c39")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page178_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="0ba94f9c-ae6d-4b19-876a-1f8f4467bed6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page179_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2e473d0a-3a0d-4d19-8ad9-1bd8a028b8ed")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page180_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="9391029c-b2ef-453b-b9c4-dde7b5995eb5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page181_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="4b5e666d-d2d2-4691-83a7-ebea693b5144")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page182_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d4f27e47-4ea0-4ae0-b9c8-cfff51823af5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page183_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d19c3dfe-2870-43a0-a76d-1abc8d19ba4d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page184_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8253d337-2658-42ca-94db-deaf4b199039")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page185_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5e148d80-3ece-4089-9ec4-fb84c8416264")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page186_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ad3476ac-c370-45a7-8010-651b87a49c37")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page187_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="202f628c-c9c9-41d5-8e80-60a53e2cf5c7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page188_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f9fa88f6-2b22-4b38-816e-7adf379482e7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page189_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="c42ad585-00f8-43bc-9e54-ed5f0c3834ca")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page190_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1fa9f0f5-8fba-48e7-96e4-9ee9d6210744")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page191_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ae321973-bae5-491b-a1bb-3e62456b63b2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page192_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6ca91a32-b069-4894-8264-1b580e7ea6fe")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page193_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="5c47d470-705d-4e24-898e-3623d7fc4394")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page194_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f912fcc8-c924-4669-be47-34db45fe1e84")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page195_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ce934860-5ccf-46b2-8c96-8b52436d0100")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page196_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="9263896b-d345-44e0-812b-d33c14543092")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page197_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2f5594ae-fcc9-4216-9a01-7106aac9a577")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page198_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="486a9831-5465-4a12-81f2-3dab18407ecd")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page199_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8497568b-f6c3-4efa-a86f-087d86f1ce8b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page200_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="9d3d6bdb-b0a1-44da-b44d-46fd29f2cab9")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page201_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="aa2d3a42-52fb-432c-8ef8-b6ac950e03cc")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page202_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6d917c2f-b6da-4598-b058-92444d5d5bf2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page203_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="04cdace1-dcab-4b9d-ba72-2b36b1f8ca35")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page204_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f09ad823-eb80-4d31-867f-e8c3e7b750de")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page205_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="221922fb-4e8b-4c2a-95b0-ae7a0455a0f5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page206_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="aba6d4a4-9fab-4c69-b4ce-a82b3485cfd4")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page207_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="27d7fe67-f5f8-40b4-9679-3cb57861eac2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page208_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="327079fb-3cb4-4e10-9aef-4dabef3f3ea9")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page209_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="80afcfb1-7adf-4cda-b010-1ae5fe205fe2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page210_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2f8d5474-dd7c-4db6-9ae5-51cb7fa612e1")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page211_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="912aed34-cf0e-4812-af33-46e874caba00")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page212_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="0aa932e6-f749-4a45-a627-ae420b23a22e")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page213_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="96d40e6f-601c-47c3-996c-ea2db37510a6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page214_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="3b6aa966-bd27-44af-ba15-d0437d480971")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page215_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ef907096-9c36-46a4-a9e0-f25a077499ee")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page216_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="cf07b118-face-4e00-98b1-d51943feee52")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page217_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="54af4eb3-f964-4aa6-b4d8-9009d2fed206")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page218_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="3f59b9cf-3a4f-405a-a081-24473a9eedf2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page219_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ca25126c-81ac-4b11-9c25-e33ccb4e93ab")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page220_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="93cb1ba6-76b4-44a7-aee3-e41ffece6582")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page221_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="07d6fd2f-0195-4561-8ab8-63adf3c5a22d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page222_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8601a470-db5c-48ed-94bb-1e1d0d7fc2ee")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page223_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="c42c4591-c8c9-44c3-a720-033c22d96a90")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page224_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="94a31e15-21c7-44f3-98b6-e77b93e39026")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page225_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="c912e5a6-2759-4990-8f9f-a44525506a4f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page226_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="eced67d5-d803-4ed9-84f5-5fff4b6ea896")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page227_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="4b4190b7-31e5-4af4-bf96-604e91677aa7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page228_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="91a839d0-1be6-4f39-88a3-90aaf6b9dd18")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page229_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="23184dfd-a99c-4684-816e-2475e063ca6f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page230_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="e6a909f1-86a9-4d18-b44b-e726b73457a3")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page231_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="4a0dc654-48fe-4bcb-bab3-7e243ce190ed")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page232_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="4f6229bf-8f06-4a72-9f52-9c28553fb976")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page233_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="0d7e1d75-5f8a-4926-a7de-656fc4e2e9fa")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page234_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="78b6702d-875a-4223-8575-b9dd50a4f40a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page235_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="947b768f-f540-4b73-ac45-41b80f3ec8a8")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page236_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8a673938-29ee-46d7-b9d7-438585e4df2c")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page237_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="86ad75a4-4119-487c-a8bb-2fe093854453")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page238_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="41d7e39f-19b8-4e94-961a-bf178eeffdfb")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page239_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="99bb1a20-ad7a-4bab-86d7-617b9d7357e2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page240_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="ae29c250-f2ea-4429-859d-58a8996abff9")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page241_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2124732b-7bb7-47eb-a9cc-4c423e51af47")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page242_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2a5e9b27-b277-4a8d-82cd-ed2cec22be19")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page243_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1e7d167e-81c9-442a-895d-8e73b1b86e22")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page244_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="40f076d0-2f16-476d-84b6-5d7a43289a0e")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page245_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d31e6b0e-7f5f-4baa-b36d-11ad64ece7f7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page246_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="b50bf1e9-9b0b-4e1e-9c84-a2e5771debf7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page247_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="a8f65e8c-f8cd-499f-bfbf-08e4091345ce")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page248_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="49c073b4-77aa-49ca-873b-6cbc65bdf99d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page249_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="84187c64-0911-4e82-8565-995c7a5b1e98")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page250_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="86d54efa-8a08-47fe-ae29-310cee0e0ba6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page251_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2051e317-70c0-441b-8f5a-d0c956c42a5b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page252_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="f09fc7d9-3cb7-42db-aef5-f6711f7f0168")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page253_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="56576b2c-16b6-446a-819f-ac7c60fd6bc8")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page254_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6e1f7314-798c-4ef0-969a-577af2e5e52b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page255_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="a927e210-3a98-4ddf-be9f-161bd256f2cd")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page256_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="1c8bb188-13e8-40ef-b0f7-6b1ca3df045d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page257_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="a4d55f6e-f32c-401f-baf1-a3941aad9532")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page258_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="6a068a8c-3907-4518-8f1d-64586b8cf09a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page259_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="8a87685b-2d23-48ae-857c-5abf90138377")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page260_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="9472e001-bf0a-4fdb-9142-fcf7230f7fab")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page261_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="fe50ab6c-fcc0-40f9-9ec9-637c215ddb64")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page262_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="a1f6c5f2-ef34-4cae-b359-0de559a82ea6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page263_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="d84a4b39-7b49-4c41-b1fc-c1c70a04f7d3")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page264_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="3d1dd0f0-0739-46fd-b142-003f449ac3aa")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page265_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="0103aae9-024e-4ce7-a403-aec011d26e34")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page266_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="2b015300-b06e-48fb-819a-b57ed39feedb")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page267_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="91985761-c8e1-40ec-8e4f-9a1536d9b1cf")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page268_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="9b87a538-d06f-408e-970f-0ec1b03159f8", element="cb619bd1-2838-42c8-a068-7f5f90bafce4")>
+Main exception-> 
+Traceback (most recent call last):
+  File "scrap-clean-code.py", line 385, in download_file
+    raise Exception()
+Exception
+
+restarting
+scraping starts
+junhuihe login in successfully
+publication type is set
+source is set
+time range is set
+subject is set
+we'll scrape down 3136 files related to 'ticker(MSFT)'
+exist: 1_314.ZIP
+exist: 2_314.ZIP
+exist: 3_314.ZIP
+exist: 4_314.ZIP
+exist: 5_314.ZIP
+exist: 6_314.ZIP
+exist: 7_314.ZIP
+exist: 8_314.ZIP
+exist: 9_314.ZIP
+exist: 10_314.ZIP
+exist: 11_314.ZIP
+exist: 12_314.ZIP
+exist: 13_314.ZIP
+exist: 14_314.ZIP
+exist: 15_314.ZIP
+exist: 16_314.ZIP
+exist: 17_314.ZIP
+exist: 18_314.ZIP
+exist: 19_314.ZIP
+exist: 20_314.ZIP
+exist: 21_314.ZIP
+exist: 22_314.ZIP
+exist: 23_314.ZIP
+exist: 24_314.ZIP
+exist: 25_314.ZIP
+exist: 26_314.ZIP
+exist: 27_314.ZIP
+exist: 28_314.ZIP
+exist: 29_314.ZIP
+exist: 30_314.ZIP
+exist: 31_314.ZIP
+exist: 32_314.ZIP
+exist: 33_314.ZIP
+exist: 34_314.ZIP
+exist: 35_314.ZIP
+exist: 36_314.ZIP
+exist: 37_314.ZIP
+exist: 38_314.ZIP
+exist: 39_314.ZIP
+exist: 40_314.ZIP
+exist: 41_314.ZIP
+exist: 42_314.ZIP
+exist: 43_314.ZIP
+exist: 44_314.ZIP
+exist: 45_314.ZIP
+exist: 46_314.ZIP
+exist: 47_314.ZIP
+exist: 48_314.ZIP
+exist: 49_314.ZIP
+exist: 50_314.ZIP
+exist: 51_314.ZIP
+exist: 52_314.ZIP
+exist: 53_314.ZIP
+exist: 54_314.ZIP
+exist: 55_314.ZIP
+exist: 56_314.ZIP
+exist: 57_314.ZIP
+exist: 58_314.ZIP
+exist: 59_314.ZIP
+exist: 60_314.ZIP
+exist: 61_314.ZIP
+exist: 62_314.ZIP
+exist: 63_314.ZIP
+exist: 64_314.ZIP
+exist: 65_314.ZIP
+exist: 66_314.ZIP
+exist: 67_314.ZIP
+exist: 68_314.ZIP
+exist: 69_314.ZIP
+exist: 70_314.ZIP
+exist: 71_314.ZIP
+exist: 72_314.ZIP
+exist: 73_314.ZIP
+exist: 74_314.ZIP
+exist: 75_314.ZIP
+exist: 76_314.ZIP
+exist: 77_314.ZIP
+exist: 78_314.ZIP
+exist: 79_314.ZIP
+exist: 80_314.ZIP
+exist: 81_314.ZIP
+exist: 82_314.ZIP
+exist: 83_314.ZIP
+exist: 84_314.ZIP
+exist: 85_314.ZIP
+exist: 86_314.ZIP
+exist: 87_314.ZIP
+exist: 88_314.ZIP
+exist: 89_314.ZIP
+exist: 90_314.ZIP
+exist: 91_314.ZIP
+exist: 92_314.ZIP
+exist: 93_314.ZIP
+exist: 94_314.ZIP
+exist: 95_314.ZIP
+exist: 96_314.ZIP
+exist: 97_314.ZIP
+exist: 98_314.ZIP
+exist: 99_314.ZIP
+exist: 100_314.ZIP
+exist: 101_314.ZIP
+exist: 102_314.ZIP
+exist: 103_314.ZIP
+exist: 104_314.ZIP
+exist: 105_314.ZIP
+exist: 106_314.ZIP
+exist: 107_314.ZIP
+exist: 108_314.ZIP
+exist: 109_314.ZIP
+exist: 110_314.ZIP
+exist: 111_314.ZIP
+exist: 112_314.ZIP
+exist: 113_314.ZIP
+exist: 114_314.ZIP
+exist: 115_314.ZIP
+exist: 116_314.ZIP
+exist: 117_314.ZIP
+exist: 118_314.ZIP
+exist: 119_314.ZIP
+exist: 120_314.ZIP
+exist: 121_314.ZIP
+exist: 122_314.ZIP
+exist: 123_314.ZIP
+exist: 124_314.ZIP
+exist: 125_314.ZIP
+exist: 126_314.ZIP
+exist: 127_314.ZIP
+exist: 128_314.ZIP
+exist: 129_314.ZIP
+exist: 130_314.ZIP
+exist: 131_314.ZIP
+exist: 132_314.ZIP
+exist: 133_314.ZIP
+exist: 134_314.ZIP
+exist: 135_314.ZIP
+exist: 136_314.ZIP
+exist: 137_314.ZIP
+exist: 138_314.ZIP
+exist: 139_314.ZIP
+exist: 140_314.ZIP
+exist: 141_314.ZIP
+exist: 142_314.ZIP
+exist: 143_314.ZIP
+exist: 144_314.ZIP
+exist: 145_314.ZIP
+exist: 146_314.ZIP
+exist: 147_314.ZIP
+exist: 148_314.ZIP
+exist: 149_314.ZIP
+exist: 150_314.ZIP
+exist: 151_314.ZIP
+exist: 152_314.ZIP
+exist: 153_314.ZIP
+exist: 154_314.ZIP
+exist: 155_314.ZIP
+exist: 156_314.ZIP
+exist: 157_314.ZIP
+exist: 158_314.ZIP
+exist: 159_314.ZIP
+exist: 160_314.ZIP
+exist: 161_314.ZIP
+exist: 162_314.ZIP
+exist: 163_314.ZIP
+exist: 164_314.ZIP
+exist: 165_314.ZIP
+exist: 166_314.ZIP
+exist: 167_314.ZIP
+exist: 168_314.ZIP
+exist: 169_314.ZIP
+exist: 170_314.ZIP
+exist: 171_314.ZIP
+exist: 172_314.ZIP
+exist: 173_314.ZIP
+exist: 174_314.ZIP
+exist: 175_314.ZIP
+exist: 176_314.ZIP
+exist: 177_314.ZIP
+exist: 178_314.ZIP
+exist: 179_314.ZIP
+exist: 180_314.ZIP
+exist: 181_314.ZIP
+exist: 182_314.ZIP
+exist: 183_314.ZIP
+exist: 184_314.ZIP
+exist: 185_314.ZIP
+exist: 186_314.ZIP
+exist: 187_314.ZIP
+exist: 188_314.ZIP
+exist: 189_314.ZIP
+exist: 190_314.ZIP
+exist: 191_314.ZIP
+exist: 192_314.ZIP
+exist: 193_314.ZIP
+exist: 194_314.ZIP
+exist: 195_314.ZIP
+exist: 196_314.ZIP
+exist: 197_314.ZIP
+exist: 198_314.ZIP
+exist: 199_314.ZIP
+exist: 200_314.ZIP
+exist: 201_314.ZIP
+exist: 202_314.ZIP
+exist: 203_314.ZIP
+exist: 204_314.ZIP
+exist: 205_314.ZIP
+exist: 206_314.ZIP
+exist: 207_314.ZIP
+exist: 208_314.ZIP
+exist: 209_314.ZIP
+exist: 210_314.ZIP
+exist: 211_314.ZIP
+exist: 212_314.ZIP
+exist: 213_314.ZIP
+exist: 214_314.ZIP
+exist: 215_314.ZIP
+exist: 216_314.ZIP
+exist: 217_314.ZIP
+exist: 218_314.ZIP
+exist: 219_314.ZIP
+exist: 220_314.ZIP
+exist: 221_314.ZIP
+exist: 222_314.ZIP
+exist: 223_314.ZIP
+exist: 224_314.ZIP
+exist: 225_314.ZIP
+exist: 226_314.ZIP
+exist: 227_314.ZIP
+exist: 228_314.ZIP
+exist: 229_314.ZIP
+exist: 230_314.ZIP
+exist: 231_314.ZIP
+exist: 232_314.ZIP
+exist: 233_314.ZIP
+exist: 234_314.ZIP
+exist: 235_314.ZIP
+exist: 236_314.ZIP
+exist: 237_314.ZIP
+exist: 238_314.ZIP
+exist: 239_314.ZIP
+exist: 240_314.ZIP
+exist: 241_314.ZIP
+exist: 242_314.ZIP
+exist: 243_314.ZIP
+exist: 244_314.ZIP
+exist: 245_314.ZIP
+exist: 246_314.ZIP
+exist: 247_314.ZIP
+exist: 248_314.ZIP
+exist: 249_314.ZIP
+exist: 250_314.ZIP
+exist: 251_314.ZIP
+exist: 252_314.ZIP
+exist: 253_314.ZIP
+exist: 254_314.ZIP
+exist: 255_314.ZIP
+exist: 256_314.ZIP
+exist: 257_314.ZIP
+exist: 258_314.ZIP
+exist: 259_314.ZIP
+exist: 260_314.ZIP
+exist: 261_314.ZIP
+exist: 262_314.ZIP
+exist: 263_314.ZIP
+exist: 264_314.ZIP
+exist: 265_314.ZIP
+exist: 266_314.ZIP
+exist: 267_314.ZIP
+exist: 268_314.ZIP
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="90ee435f-caf0-4358-bdca-244696bc4fc3")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page269_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="d7798858-158a-49c3-b3ee-d6f12c6a8037")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page270_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="efef8351-f92f-4ba5-b6b5-64ec79ba5f0f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page271_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="a9b80f46-950d-4f64-8ba0-220059da434b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page272_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="9fd6d69b-717c-437a-b6a4-97c650dce518")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page273_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="91b956e5-8796-4692-9d4c-a6a3e2355b74")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page274_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="043f1508-939a-43b6-b1d8-2037904e7dee")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page275_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="1f2052b8-f4ea-4a73-b392-fd552c752bf1")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page276_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="61e5b169-0675-4737-a937-24c088add9ce")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page277_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="9e9c264b-1975-41eb-ac01-6925f295a33a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page278_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="98468092-b049-44be-af25-6c497fbe716f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page279_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="6a18ea4e-c028-481e-b34a-7080792a9d2b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page280_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="d612d45c-ca86-4435-9a34-ba3dac3197ef")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page281_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="7529f3b8-2fcf-4e87-8b33-d4d608710c32")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page282_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="faf3577f-17c2-4b9c-a7c6-627954f2c277")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page283_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="3bdc2da9-8b02-4ee2-9f72-ff9b3720144e")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page284_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="25f7ea9c-760b-49a7-9385-976e133e8203")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page285_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="27f5e1c5-418c-4664-8c50-3d6c30b12350")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page286_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="8a80783c-6394-4b5d-8788-b3b37f862771")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page287_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="7088d9e1-e2e4-466f-b44f-df6e31ff8f0b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page288_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="0ba585dd-3294-4cb0-8ac6-15cb582bf9b7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page289_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="28aa3fa5-c801-4572-85f3-d1f759ac144e")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page290_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="fbea87bc-afc7-49d4-b353-79dda0826adb")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page291_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="4e41b163-5dd7-43ac-9eae-5a1e54a1b284")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page292_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="310fcf4a-58e2-493f-b4f7-77cd6bb6a77f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page293_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="eba2fda2-60cd-49d7-9c3f-7c1af937ad42")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page294_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="8bdda387-184d-4bac-87a6-5fd51541176d")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page295_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="edd66608-ae12-4002-bd78-5aca2cc39f49")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page296_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="1ca97193-24ae-4f67-b750-a9610ab568e2")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page297_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="165ac612-24e2-4d8c-b91d-6a91d7387e2e")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page298_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="5f555280-f574-4c7d-bde9-df9e07695f67")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page299_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="5bd030bb-bf41-4dfc-990f-1a794cdce3f0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page300_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="65cd7568-38ae-4e6e-875c-6232700aadbc")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page301_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="843f38b2-9180-4cff-8902-3af412ff633f")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page302_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="5692bebb-33d0-4752-91b0-a07191e9e97a")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page303_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="e10f9b41-e68e-4e24-b698-614c58f5f5c5")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page304_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="b1b2f20e-176e-4127-b959-adc22d9dd228")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page305_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="b8e8c9d5-544c-4c66-b92c-a7be693a0954")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page306_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="56cd8a41-e1cc-4bd2-8aef-9ff7fff5009c")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page307_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="63587348-948f-4155-bb16-a06c3a8f986b")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page308_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="8ecec4ad-f84e-4bf9-95ae-90b1f49b75a0")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page309_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="bb7d0a04-5f48-44d3-8e8a-14cb84097b19")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page310_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="dc54d468-3053-4245-be05-26810919d0f7")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page311_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="06177853-8b56-4b10-9c07-ed3601e866c6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page312_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="09515ae9-253e-4170-b701-e5cca3fb1a07")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page313_314
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="c02c2dce-531d-4030-a908-7248a3906442", element="a34d2974-08c7-47f9-8c96-d4daa2d57fc6")>
+-> Closing the Download Window...
+10,000+ results for ticker(MSFT) (narrowed)
+finishing page314_314
+FINISHED!
+
+STARTING FULL DOWNLOAD TILL ---> December.2014
+
+
+scraping starts
+junhuihe login in successfully
+publication type is set
+source is set
+time range is set
+subject is set
+we'll scrape down 11 files related to 'ticker(TROW)'
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="57e307d5-73fa-4cde-8a31-b88187273500", element="f789d403-db12-4707-afea-1b2120714273")>
+-> Closing the Download Window...
+108 results for ticker(TROW) (narrowed)
+finishing page1_2
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="57e307d5-73fa-4cde-8a31-b88187273500", element="6f37528f-ea7d-4a4f-9dc7-974db85b67be")>
+-> Closing the Download Window...
+108 results for ticker(TROW) (narrowed)
+finishing page2_2
+FINISHED!
+
+STARTING FULL DOWNLOAD TILL ---> December.2014
+
+
+scraping starts
+junhuihe login in successfully
+publication type is set
+source is set
+time range is set
+subject is set
+we'll scrape down 161 files related to 'ticker(HON)'
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="11deb285-4eab-4392-8618-732c2999dedf")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page1_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="797ca25f-2493-4735-b580-82a9b1cac02e")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page2_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="c4ed0f56-3a7d-48b4-92b8-b6abd4109093")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page3_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="8729ccc8-07a6-4049-9f3f-a1e92f0af03a")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page4_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="d22d8d0d-b07b-4545-8d15-42f057124397")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page5_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="1aafe9be-9efa-40e6-8b59-4c76b25f5a80")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page6_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="b4ab2fb8-7a24-4de4-baf5-a77728836357")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page7_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="1157e62a-8493-4a11-957a-2adef0ebde52")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page8_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="12326193-4584-4740-81fa-0d73df5697d8")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page9_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="4aaff7d5-758a-4244-aa0e-607c055c5473")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page10_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="db5cb65c-be92-47bb-9a31-8e68635fcbdf")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page11_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="748ba629-a518-4ef0-b2fe-6e8ffb914592")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page12_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="5a391194-94e6-4735-8d4e-fd5d557b75cd")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page13_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="f72c4170-5ab5-429f-bade-5354ad6287ec")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page14_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="4435d52e-b219-4b03-8a07-b56a9cf37c09")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page15_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="e3d92244-2d07-4984-a20f-133259ef48dd")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page16_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="425331e2-7857-4dec-806c-92b10cd4b2bf", element="b6590853-074e-4e58-8b7d-31d8059172d8")>
+-> Closing the Download Window...
+1,602 results for ticker(HON) (narrowed)
+finishing page17_17
+FINISHED!
+
+STARTING FULL DOWNLOAD TILL ---> December.2014
+
+
+scraping starts
+junhuihe login in successfully
+publication type is set
+source is set
+time range is set
+subject is set
+we'll scrape down 181 files related to 'ticker(EMC)'
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="29804ffd-7535-4c86-87a9-18c8c1c27881")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page1_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="88bbaabb-108c-418a-a8c7-b25fc3b14056")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page2_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="9f71f158-f2e5-47fa-856b-6a1592c6b1c4")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page3_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="3eacf557-8f70-4d4b-968a-8c9e18fd335f")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page4_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="13dc5cee-f925-4679-baea-5bf8bd46fbe9")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page5_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="d68e9b38-95c8-4102-a9e3-0f8a86ead697")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page6_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="b247313a-1d1b-4516-a73c-9ca2843ce6e4")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page7_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="cf9063d2-cece-4fe2-a8a0-61fd9668aebb")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page8_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="d09273b5-8473-43b7-8278-626849dae0cd")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page9_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="fbc8e5dc-fd95-479b-a905-74ca5ec5b437")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page10_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="76dd904a-5448-4b9f-93ca-326dd4c2b968")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page11_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="abe0a005-a4b0-447d-9c19-c17de1f15792")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page12_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="a1c139b2-cf2d-47bc-8f9d-003128c3ee3c")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page13_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="baaed521-1ae5-4929-86b4-3247496146ec")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page14_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="7c9f93ff-361b-450c-9c0f-b7562af51e98")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page15_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="6a87e550-40ed-46ff-acc5-64b975832a31")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page16_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="a8d2e27d-5aaa-4702-8333-9e59c089b3d3")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page17_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="4c085ca4-6a8c-4b40-b622-712d21304bb0")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page18_19
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="b96448a1-9f3b-4af3-815c-25f9dc0e056c", element="88aca5e1-79a1-425e-a5f4-c7776e4e9d85")>
+-> Closing the Download Window...
+1,809 results for ticker(EMC) (narrowed)
+finishing page19_19
+FINISHED!
+
+STARTING FULL DOWNLOAD TILL ---> December.2014
+
+
+scraping starts
+junhuihe login in successfully
+publication type is set
+source is set
+time range is set
+subject is set
+we'll scrape down 11 files related to 'ticker(LLTC)'
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="857b69a4-3c0b-4a9b-a25c-b5d2437d3d8a", element="c11dc8b4-5fe6-4e6e-833e-eccd036777a3")>
+-> Closing the Download Window...
+107 results for ticker(LLTC) (narrowed)
+finishing page1_2
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="857b69a4-3c0b-4a9b-a25c-b5d2437d3d8a", element="027458df-a7d2-4286-bd9f-fb3b0df61b46")>
+-> Closing the Download Window...
+107 results for ticker(LLTC) (narrowed)
+finishing page2_2
+FINISHED!
+
+STARTING FULL DOWNLOAD TILL ---> December.2014
+
+
+scraping starts
+junhuihe login in successfully
+publication type is set
+source is set
+time range is set
+subject is set
+we'll scrape down 84 files related to 'ticker(ADM)'
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ab4b0df9-ace3-4a61-bc23-a65fadee8c3e", element="f8521225-595b-45c0-948e-c19f13c3d8bd")>
+-> Closing the Download Window...
+832 results for ticker(ADM) (narrowed)
+finishing page1_9
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ab4b0df9-ace3-4a61-bc23-a65fadee8c3e", element="94a74438-37da-4fb6-8143-5e8467d7fc3c")>
+-> Closing the Download Window...
+832 results for ticker(ADM) (narrowed)
+finishing page2_9
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ab4b0df9-ace3-4a61-bc23-a65fadee8c3e", element="1c5f2570-93b3-474a-b1b9-242bf17af88b")>
+-> Closing the Download Window...
+832 results for ticker(ADM) (narrowed)
+finishing page3_9
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ab4b0df9-ace3-4a61-bc23-a65fadee8c3e", element="b83062b9-63f9-4338-81a8-b5606f0eae28")>
+-> Closing the Download Window...
+832 results for ticker(ADM) (narrowed)
+finishing page4_9
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ab4b0df9-ace3-4a61-bc23-a65fadee8c3e", element="cb5f263a-47b0-4a49-9e8f-dc2f925c5a02")>
+-> Closing the Download Window...
+832 results for ticker(ADM) (narrowed)
+finishing page5_9
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ab4b0df9-ace3-4a61-bc23-a65fadee8c3e", element="99567b50-160f-48a9-9292-a5a5a1a607e2")>
+-> Closing the Download Window...
+832 results for ticker(ADM) (narrowed)
+finishing page6_9
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ab4b0df9-ace3-4a61-bc23-a65fadee8c3e", element="7ef6e2eb-c036-4f38-a95c-e148ce19a243")>
+-> Closing the Download Window...
+832 results for ticker(ADM) (narrowed)
+finishing page7_9
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ab4b0df9-ace3-4a61-bc23-a65fadee8c3e", element="52de4b27-0a0a-408a-acf1-d6a45e2c5aa5")>
+-> Closing the Download Window...
+832 results for ticker(ADM) (narrowed)
+finishing page8_9
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="ab4b0df9-ace3-4a61-bc23-a65fadee8c3e", element="e680bc82-10c8-44df-bf5d-bba364c0fd61")>
+-> Closing the Download Window...
+832 results for ticker(ADM) (narrowed)
+finishing page9_9
+FINISHED!
+
+STARTING FULL DOWNLOAD TILL ---> December.2014
+
+
+scraping starts
+junhuihe login in successfully
+publication type is set
+source is set
+time range is set
+subject is set
+we'll scrape down 161 files related to 'ticker(FISV)'
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="c0c8c621-d7dd-48ad-90df-732c0c1cefba")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page1_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="4ce265bd-05ba-43a6-8bcc-075686d4034e")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page2_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="c4301a26-6d64-4570-90a4-5deaefb1d941")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page3_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="c0393226-036c-4240-b40f-2448cd0323f1")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page4_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="ba4c1af3-94f8-4741-80a3-f9c44f993c7a")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page5_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="8b6b7c3c-2e53-4050-9245-1aa2e751ecaa")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page6_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="314ef086-6f87-4c20-bc1c-16548995a2e0")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page7_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="bf1d5180-0a67-49de-9388-915175bad21c")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page8_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="85a6206b-2152-4ea3-9354-a98f1803e625")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page9_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="2bf6f522-62bc-4826-b771-f20392345ad3")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page10_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="0196eff8-ade1-4722-ac02-e104fd17c540")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page11_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="68629bef-534b-425f-8e9d-e762fbf0647b")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page12_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="bd358e68-d35d-47ae-a818-a19ea88329ed")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page13_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="4f6dbc7e-a63f-4f63-a45b-51c46e815d34")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page14_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="c15c471f-e310-411f-abcd-82cfbddefc46")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page15_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="d0a40d21-17b5-44a0-8914-81c5af8e0896")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page16_17
+here
+<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="800ccbf0-6698-41fa-bcd4-d561e1994af3", element="c8ac3943-3f56-48e4-aea9-5615b9539cc6")>
+-> Closing the Download Window...
+1,603 results for ticker(FISV) (narrowed)
+finishing page17_17
+FINISHED!
+
+STARTING FULL DOWNLOAD TILL ---> December.2014
+
+
+scraping starts
+junhuihe login in successfully
+^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^CTraceback (most recent call last):
+  File "scrap-clean-code.py", line 178, in download_file
+    for ele in browser.find_elements_by_xpath("//*[contains(text(), 'Newswires & Press Releases')]"):
+  File "/root/shuyi/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 410, in find_elements_by_xpath
+    return self.find_elements(by=By.XPATH, value=xpath)
+  File "/root/shuyi/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 1007, in find_elements
+    'value': value})['value'] or []
+  File "/root/shuyi/lib/python3.5/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/root/shuyi/lib/python3.5/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: Tried to run command without establishing a connection
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "scrap-clean-code.py", line 652, in <module>
+    val = download_file(searchTerms = searchTerms, download_folder = __download_folder, enddate=__enddate )
+  File "scrap-clean-code.py", line 186, in download_file
+    time.sleep(2)
+KeyboardInterrupt
+]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Jp[38;5;240mython scrap-c…[14D[30m(B[m[31m[1mp(B[m[38;5;240mython scrap-c…[14D[30m(B[m[31m[1mk(B[m[K[38;5;240mill python[10D[30m(B[m[31m[1mi(B[m[38;5;240mll python[9D[30m(B[m[31m[1ml(B[m[38;5;240ml python[30m(B[m[31m[1ml(B[m[38;5;240m python[30m(B[m[38;5;26mpkill[38;5;240m python[30m(B[m[38;5;26m [38;5;240mpython[30m(B[m [38;5;240mpython[30m(B[mf[K[38;5;240mirefox[30m(B[m[38;5;39mf[38;5;240mirefox[30m(B[m[38;5;39mi[38;5;240mrefox[30m(B[m[38;5;39mr[38;5;240mefox[30m(B[m[38;5;39me[38;5;240mfox[30m(B[m[38;5;39mf[38;5;240mox[30m(B[m[38;5;39mo[38;5;240mx[30m(B[m[12D[1m[45mpkill firefo(B[m[30m[38;5;240m[40m(B[m[38;5;240mx[30m(B[m[12D[38;5;26mpkill[30m(B[m [38;5;39mfirefo[38;5;240mx[30m(B[m[38;5;39mx[30m(B[m
+[30m(B[m]0;pkill  /root/shuyi/nexis-uni-scrap[30m(B[m]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Kp[31m[1mp(B[m[38;5;240mkill firefox[12D[30m(B[m[31m[1mk(B[m[38;5;240mill firefox[11D[30m(B[m[31m[1mi(B[m[38;5;240mll firefox[10D[30m(B[m[31m[1ml(B[m[38;5;240ml firefox[9D[30m(B[m[31m[1ml(B[m[38;5;240m firefox[30m(B[m[38;5;26mpkill[38;5;240m firefox[30m(B[m[38;5;26m [38;5;240mfirefox[30m(B[m [38;5;240mfirefox[30m(B[mp[K[38;5;39mp[30m(B[m[38;5;240mython[30m(B[m[38;5;39my[38;5;240mthon[30m(B[m[38;5;39mt[38;5;240mhon[30m(B[m[38;5;39mh[38;5;240mon[30m(B[m[38;5;39mo[38;5;240mn[30m(B[m[38;5;39mn[30m(B[m
+[30m(B[m]0;pkill  /root/shuyi/nexis-uni-scrap[30m(B[m]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi/nexis-uni-scrap[30m(B[m[0m[01;34mbrowser[0m/  geckodriver.log  scrap-clean-code.ipynb  screenlog.0    test.sh
+done.txt  req.txt          scrap-clean-code.py     SUPERVISOR.py  tickers.txt
+]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Kc[31m[1mc(B[m[38;5;240mlear[30m(B[m[31m[1md(B[m[K[38;5;26mcd[30m(B[m[38;5;240m ..[30m(B[m[38;5;26m [38;5;240m..[30m(B[m [38;5;240m..[30m(B[m.[38;5;240m.[30m(B[m[38;5;39m[4m.[38;5;240m[24m.[30m(B[m[38;5;39m[4m.[30m(B[m
+[30m(B[m]0;cd  /root/shuyi/nexis-uni-scrap[30m(B[m]0;fish  /root/shuyi[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/shuyi[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi[30m(B[m[0m[01;34mbin[0m/  [01;34metc[0m/  [01;34minclude[0m/  [01;34mlib[0m/  [01;34mnexis-uni-scrap[0m/  [01;34mshare[0m/
+]0;fish  /root/shuyi[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/shuyi[30m(B[m# [Kc[31m[1mc(B[m[38;5;240md ..[30m(B[m[31m[1md(B[m[38;5;240m ..[30m(B[m[38;5;26mcd[38;5;240m ..[30m(B[m[38;5;26m [38;5;240m..[30m(B[m [38;5;240m..[30m(B[m.[38;5;240m.[30m(B[m[38;5;39m[4m.[38;5;240m[24m.[30m(B[m[38;5;39m[4m.[30m(B[m
+[30m(B[m]0;cd  /root/shuyi[30m(B[m]0;fish  /root[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root[30m(B[mgoto  [0m[01;34mscripts_env[0m/  [01;34mshare[0m/  [01;34mshuyi[0m/
+]0;fish  /root[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root[30m(B[mgoto  [0m[01;34mscripts_env[0m/  [01;34mshare[0m/  [01;34mshuyi[0m/
+]0;fish  /root[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~[30m(B[m# [Kc[31m[1mc(B[m[38;5;240md ..[30m(B[m[31m[1md(B[m[38;5;240m ..[30m(B[m[38;5;26mcd[38;5;240m ..[30m(B[m[38;5;26m [38;5;240m..[30m(B[m [38;5;240m..[30m(B[m.[38;5;240m.[30m(B[m[38;5;39m[4m.[38;5;240m[24m.[30m(B[m[38;5;39m[4m.[30m(B[m
+[30m(B[m]0;cd  /root[30m(B[m]0;fish  /[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m/[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /[30m(B[m[0m[01;34mbin[0m/   [01;34metc[0m/         [01;36minitrd.img.old[0m@  [01;34mlost+found[0m/  [01;34mopt[0m/   [01;34mrun[0m/   [01;34msrv[0m/  [01;34musr[0m/      [01;36mvmlinuz.old[0m@
+[01;34mboot[0m/  [01;34mhome[0m/        [01;34mlib[0m/             [01;34mmedia[0m/       [01;34mproc[0m/  [01;34msbin[0m/  [01;34msys[0m/  [01;34mvar[0m/
+[01;34mdev[0m/   [01;36minitrd.img[0m@  [01;34mlib64[0m/           [01;34mmnt[0m/         [01;34mroot[0m/  [01;34msnap[0m/  [30;42mtmp[0m/  [01;36mvmlinuz[0m@
+]0;fish  /[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m/[30m(B[m# [Kc[31m[1mc(B[m[38;5;240mlear[30m(B[m[31m[1md(B[m[K[38;5;26mcd[30m(B[m[38;5;240m [30m(B[m[38;5;26m [30m(B[m D[31m[1mD(B[m[31m[1me(B[m[31m[1mdev/(B[m[38;5;39m[4mdev/[30m(B[m
+[30m(B[m]0;cd  /[30m(B[m]0;fish  /dev[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m/dev[30m(B[m# [Ks[38;5;240mcreen -L[30m(B[m[31m[1ms(B[m[38;5;240mcreen -L[30m(B[m[31m[1ml(B[m[K[38;5;240mabtop [30m(B[m[K
+[30m(B[m]0;sl  /dev[30m(B[mThe program 'sl' is currently not installed. You can install it by typing:
+apt install sl
+]0;fish  /dev[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m/dev[30m(B[m# [Kc[38;5;240md ..[30m(B[m[31m[1mc(B[m[38;5;240md ..[30m(B[m[31m[1md(B[m[38;5;240m ..[30m(B[m[38;5;26mcd[38;5;240m ..[30m(B[m[38;5;26m [38;5;240m..[30m(B[m [38;5;240m..[30m(B[m[K
+[30m(B[m]0;cd  /dev[30m(B[m]0;fish  /root[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~[30m(B[m# [Kc[31m[1mc(B[m[38;5;240md [30m(B[m[31m[1md(B[m[38;5;240m [30m(B[m[38;5;26mcd[38;5;240m [30m(B[m[38;5;26m [30m(B[m D[31m[1mD(B[m[31m[1me(B[m[1m[45mcd De(B[m[30m[30m(B[m[38;5;26mcd[30m(B[m [31m[1mDe(B[m
+[30m(B[m]0;cd  /root[30m(B[mcd: The directory “De” does not exist
+]0;fish  /root[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~[30m(B[m# [Ks[31m[1ms(B[m[38;5;240mcreen -L[30m(B[m[31m[1ml(B[m[K[38;5;240mabtop [30m(B[m[K
+[30m(B[m]0;sl  /root[30m(B[mThe program 'sl' is currently not installed. You can install it by typing:
+apt install sl
+]0;fish  /root[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root[30m(B[mgoto  [0m[01;34mscripts_env[0m/  [01;34mshare[0m/  [01;34mshuyi[0m/
+]0;fish  /root[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~[30m(B[m# [Kc[31m[1mc(B[m[38;5;240md [30m(B[m[31m[1md(B[m[38;5;240m [30m(B[m[38;5;26mcd[38;5;240m [30m(B[m[38;5;26m [30m(B[m s[38;5;39m[4ms[30m(B[m[38;5;240mhare/[30m(B[m[38;5;39m[4mu[30m(B[m[K[31m[1msu(B[m[31m[1mhuyi/(B[m[38;5;39m[4mshuyi/[30m(B[m[K[K[K[K[K[K[K[K[31m[1mc(B[m[Kr[31m[1mr(B[m[38;5;240mm *.swp[30m(B[m[31m[1mm(B[m[38;5;240m *.swp[30m(B[m[38;5;26mrm[38;5;240m *.swp[30m(B[m[38;5;26m [38;5;240m*.swp[30m(B[m [38;5;240m*.swp[30m(B[m-[K[38;5;39m-[30m(B[m[38;5;240m-version [9D[30m(B[m[38;5;39mr[30m(B[m[K[38;5;240mh [30m(B[m[38;5;39mf[30m(B[m[K[38;5;240mh [30m(B[m[38;5;39m [30m(B[m[K s[38;5;39m[4ms[30m(B[m[38;5;240mcripts_env/[11D[30m(B[m[38;5;39m[4mh[30m(B[m[K[38;5;240mare/[30m(B[m[38;5;39m[4my[30m(B[m[K[38;5;39mshy[30m(B[m[K[38;5;39m[4msh[30m(B[m[K[K[K[K[K[K[K[K[31m[1mr(B[m[Kc[31m[1mc(B[m[38;5;240md [30m(B[m[31m[1md(B[m[38;5;240m [30m(B[m[38;5;26mcd[38;5;240m [30m(B[m[38;5;26m [30m(B[m s[38;5;39m[4ms[30m(B[m[38;5;240mhare/[30m(B[m[38;5;39m[4mh[38;5;240m[24mare/[30m(B[m[38;5;39m[4mu[30m(B[m[K[38;5;240myi/[30m(B[m[38;5;39m[4myi/[30m(B[m
+[30m(B[m]0;cd  /root[30m(B[m]0;fish  /root/shuyi[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/shuyi[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi[30m(B[m[0m[01;34mbin[0m/  [01;34metc[0m/  [01;34minclude[0m/  [01;34mlib[0m/  [01;34mnexis-uni-scrap[0m/  [01;34mshare[0m/
+]0;fish  /root/shuyi[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/shuyi[30m(B[m# [Kc[31m[1mc(B[m[38;5;240md [30m(B[m[31m[1md(B[m[38;5;240m [30m(B[m[38;5;26mcd[38;5;240m [30m(B[m[38;5;26m [30m(B[m n[38;5;39m[4mn[30m(B[m[38;5;240mexis-uni-scrap/[15D[30m(B[m[38;5;39m[4me[38;5;240m[24mxis-uni-scrap/[14D[30m(B[m[38;5;39m[4mxis-uni-scrap/[30m(B[m
+[30m(B[m]0;cd  /root/shuyi[30m(B[m]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi/nexis-uni-scrap[30m(B[m[0m[01;34mbrowser[0m/  geckodriver.log  scrap-clean-code.ipynb  screenlog.0    test.sh
+done.txt  req.txt          scrap-clean-code.py     SUPERVISOR.py  tickers.txt
+]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Kc[31m[1mc(B[m[38;5;240md [30m(B[m[31m[1md(B[m[38;5;240m [30m(B[m[38;5;26mcd[38;5;240m [30m(B[m[38;5;26m [30m(B[m b[38;5;39m[4mb[30m(B[m[38;5;240mrowser/dow…[11D[30m(B[m[38;5;39m[4mr[38;5;240m[24mowser/dow…[10D[30m(B[m[38;5;39m[4mo[38;5;240m[24mwser/dow…[9D[30m(B[m[38;5;39m[4mwser/[38;5;240m[24mdow…[30m(B[m[K
+[30m(B[m]0;cd  /root/shuyi/nexis-uni-scrap[30m(B[m]0;fish  /root/shuyi/nexis-uni-scrap/browser[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/browser[30m(B[m# [Ks[31m[1ms(B[m[38;5;240mcreen -L[30m(B[m[31m[1mw(B[m[K[38;5;240mitch_root [10D[30m(B[m[31m[1ml(B[m[K
+[30m(B[m]0;swl  /root/shuyi/nexis-uni-scrap/browser[30m(B[mNo command 'swl' found, did you mean:
+ Command 'owl' from package 'owl' (universe)
+ Command 'sml' from package 'smlnj' (universe)
+ Command 'sql' from package 'parallel' (universe)
+ Command 'wsl' from package 'wsl' (universe)
+ Command 'sl' from package 'sl' (universe)
+ Command 'wwl' from package 'wwl' (universe)
+ Command 'sol' from package 'aisleriot' (main)
+swl: command not found
+]0;fish  /root/shuyi/nexis-uni-scrap/browser[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/browser[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi/nexis-uni-scrap/browser[30m(B[m[0m[01;34mdownload[0m/  [01;32mgeckodriver[0m*  [01;31mgeckodriver-v0.26.0-linux64.tar.gz[0m  [01;32moperadriver[0m*  [01;31moperadriver_linux64.zip[0m
+]0;fish  /root/shuyi/nexis-uni-scrap/browser[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/browser[30m(B[m# [Kc[31m[1mc(B[m[38;5;240md [30m(B[m[31m[1md(B[m[38;5;240m [30m(B[m[38;5;26mcd[38;5;240m [30m(B[m[38;5;26m [30m(B[m d[38;5;39m[4md[30m(B[m[38;5;240mownload/[30m(B[m[38;5;39m[4mo[38;5;240m[24mwnload/[30m(B[m[38;5;39m[4mwnload/[30m(B[m
+[30m(B[m]0;cd  /root/shuyi/nexis-uni-scrap/browser[30m(B[m]0;fish  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/b/download[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[m[0m[01;34mtemp[0m/         [01;34mticker(EMC)[0m/   [01;34mticker(HON)[0m/   [01;34mticker(MSFT)[0m/  [01;34mticker(TROW)[0m/
+[01;34mticker(ADM)[0m/  [01;34mticker(FISV)[0m/  [01;34mticker(LLTC)[0m/  [01;34mticker(ORCL)[0m/
+]0;fish  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/b/download[30m(B[m# [Kr[31m[1mr(B[m[38;5;240mm -rf ticker\(OR…[17D[30m(B[m[31m[1mm(B[m[38;5;240m -rf ticker\(OR…[16D[30m(B[m[38;5;26mrm[38;5;240m -rf ticker\(OR…[16D[30m(B[m[38;5;26m [38;5;240m-rf ticker\(OR…[15D[30m(B[m [38;5;240m-rf ticker\(OR…[15D[30m(B[m-[38;5;240mrf ticker\(OR…[14D[30m(B[m[38;5;39m-[38;5;240mrf ticker\(OR…[14D[30m(B[m[Kt[38;5;39m[4mt[30m(B[m[38;5;240micker\(ORCL\)/[14D[30m(B[m[38;5;39m[4mi[38;5;240m[24mcker\(ORCL\)/[13D[30m(B[m[38;5;39m[4mc[38;5;240m[24mker\(ORCL\)/[12D[30m(B[m[38;5;39m[4mk[38;5;240m[24mer\(ORCL\)/[11D[30m(B[m[38;5;39m[4mr[30m(B[m[K[38;5;39mtickr[30m(B[m[K[38;5;39m[4mtick[30m(B[m[38;5;39m[4m*[30m(B[m[38;5;39mtick[36m*[30m(B[m[38;5;240mer\(ADM\)/[10D[30m(B[m[K
+[30m(B[m]0;rm  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[mrm: cannot remove 'ticker(ADM)': Is a directory
+rm: cannot remove 'ticker(EMC)': Is a directory
+rm: cannot remove 'ticker(FISV)': Is a directory
+rm: cannot remove 'ticker(HON)': Is a directory
+rm: cannot remove 'ticker(LLTC)': Is a directory
+rm: cannot remove 'ticker(MSFT)': Is a directory
+rm: cannot remove 'ticker(ORCL)': Is a directory
+rm: cannot remove 'ticker(TROW)': Is a directory
+]0;fish  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/b/download[30m(B[m# [Krm tick*[38;5;26mrm[30m(B[m [38;5;39mtick[36m*[30m(B[m[36m [30m(B[m -[38;5;240m-versio…[30m(B[m[38;5;39m-[38;5;240m-versio…[30m(B[m[38;5;39mr[30m(B[m[K[38;5;240mh [30m(B[m[38;5;39mf[30m(B[m[K[38;5;240mh [30m(B[m[K
+[30m(B[m]0;rm  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[m]0;fish  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/b/download[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[m[0m[01;34mtemp[0m/
+]0;fish  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/b/download[30m(B[m# [Kc[31m[1mc(B[m[38;5;240md [30m(B[m[31m[1md(B[m[38;5;240m [30m(B[m[38;5;26mcd[38;5;240m [30m(B[m[38;5;26m [30m(B[m .[38;5;240m.[30m(B[m[38;5;39m[4m.[38;5;240m[24m.[30m(B[m[38;5;39m[4m.[30m(B[m
+[30m(B[m]0;cd  /root/shuyi/nexis-uni-scrap/browser/download[30m(B[m]0;fish  /root/shuyi/nexis-uni-scrap/browser[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/browser[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi/nexis-uni-scrap/browser[30m(B[m[0m[01;34mdownload[0m/  [01;32mgeckodriver[0m*  [01;31mgeckodriver-v0.26.0-linux64.tar.gz[0m  [01;32moperadriver[0m*  [01;31moperadriver_linux64.zip[0m
+]0;fish  /root/shuyi/nexis-uni-scrap/browser[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/n/browser[30m(B[m# [Kc[31m[1mc(B[m[38;5;240md ..[30m(B[m[31m[1md(B[m[38;5;240m ..[30m(B[m[38;5;26mcd[38;5;240m ..[30m(B[m[38;5;26m [38;5;240m..[30m(B[m [38;5;240m..[30m(B[m.[38;5;240m.[30m(B[m[38;5;39m[4m.[38;5;240m[24m.[30m(B[m[38;5;39m[4m.[30m(B[m
+[30m(B[m]0;cd  /root/shuyi/nexis-uni-scrap/browser[30m(B[m]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Kl[31m[1ml(B[m[38;5;240ms[30m(B[m[31m[1ms(B[m[38;5;26mls[30m(B[m
+[30m(B[m]0;ls  /root/shuyi/nexis-uni-scrap[30m(B[m[0m[01;34mbrowser[0m/  geckodriver.log  scrap-clean-code.ipynb  screenlog.0    test.sh
+done.txt  req.txt          scrap-clean-code.py     SUPERVISOR.py  tickers.txt
+]0;fish  /root/shuyi/nexis-uni-scrap[30m(B[m[38;5;245m⏎[0m                                                                                                    [30m(B[m(shuyi) root@richarddroplet2-1541467801641-s-1vcpu-2gb-blr1-01 [31m~/s/nexis-uni-scrap[30m(B[m# [Kg[31m[1mg(B[m[38;5;240mit pull[30m(B[m[31m[1mi(B[m[38;5;240mt pull[30m(B[m[31m[1mt(B[m[38;5;240m pull[30m(B[m[38;5;26mgit[38;5;240m pull[30m(B[m[38;5;26m [38;5;240mpull[30m(B[m [38;5;240mpull[30m(B[ma[K[38;5;39ma[30m(B[m[38;5;240mdd .[30m(B[m[38;5;39md[38;5;240md .[30m(B[m[38;5;39md[38;5;240m .[30m(B[m[38;5;39m [38;5;240m.[30m(B[m [38;5;240m.[30m(B[m
