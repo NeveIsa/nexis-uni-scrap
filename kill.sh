@@ -1,0 +1,2 @@
+pkill firefox
+pkill python

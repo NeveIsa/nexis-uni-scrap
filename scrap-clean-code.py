@@ -71,6 +71,12 @@ __default_enddate = "December.2014"
 __default_startdate = "January.2005"
 
 
+# In[3]:
+
+
+os.path.isfile("headless")
+
+
 # In[4]:
 
 
@@ -100,7 +106,7 @@ def download_file(searchTerms, download_folder, url = url, username = username, 
                 #make headless
                 from selenium.webdriver.firefox.options import Options
                 __options = Options()
-                __options.headless = True
+                __options.headless = os.path.isfile("headless")
                 browser = webdriver.Firefox(executable_path = path_to_ffdriver,firefox_options=__options,firefox_profile=profile)
 
 
@@ -318,7 +324,9 @@ def download_file(searchTerms, download_folder, url = url, username = username, 
                     time.sleep(2)
             total_number = int(''.join(re.findall(r'[0-9]', N_temp)))
             print("we'll scrape down {} files related to '{}'".format(total_number, searchTerms))
-            total_page = int(np.ceil(total_number/10))
+            #total_page = int(np.ceil(total_number/10))
+            total_page = total_number # updated - we now use the page numbers directly from the bottom pagination
+            
             file_digit = len(str(total_page)) * 2 + 1
             for page in range(1, total_page + 1):
                 time.sleep(2)
