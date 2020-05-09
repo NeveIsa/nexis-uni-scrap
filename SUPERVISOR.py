@@ -1,6 +1,10 @@
 import os
 import datetime
 
+
+#convert to py
+os.system("sh convert.sh")
+
 with open("tickers.txt") as f:
     tickers = f.read().strip().split("\n")
     #tickers = map(lambda x: f'ticker({x})' ,tickers)
