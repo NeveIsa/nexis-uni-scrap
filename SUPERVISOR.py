@@ -1,4 +1,4 @@
-import os
+import os,time
 import datetime
 
 
@@ -34,5 +34,7 @@ for ticker in tickers:
         while not ticker in isdone():
             print("---> RUNNING -> {}".format(ticker))
             #os.system("jupyter nbconvert --ExecutePreprocessor.timeout=600 --to notebook --execute scrap-clean-code.ipynb") 
-            os.system("python scrap-clean-code.py") 
+            os.system("python scrap-clean-code.py")
+            time.sleep(3)
+            os.system("sh kill.sh")
     print("-------------------------- end |  {} | {} ------------------------------".format(ticker,datetime.datetime.now().isoformat()))
