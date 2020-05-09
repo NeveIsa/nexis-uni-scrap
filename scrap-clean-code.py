@@ -324,8 +324,8 @@ def download_file(searchTerms, download_folder, url = url, username = username, 
                     time.sleep(2)
             total_number = int(''.join(re.findall(r'[0-9]', N_temp)))
             print("we'll scrape down {} files related to '{}'".format(total_number, searchTerms))
-            #total_page = int(np.ceil(total_number/10))
-            total_page = total_number # updated - we now use the page numbers directly from the bottom pagination
+            total_page = int(np.ceil(total_number/10))
+            #total_page = total_number # updated - we now use the page numbers directly from the bottom pagination
             
             file_digit = len(str(total_page)) * 2 + 1
             for page in range(1, total_page + 1):
@@ -662,9 +662,11 @@ if __name__ == "__main__":
         print("Download Method return code ->",val)
         ## SAVE PROGRESS IF FINISHED
         if val==7:
-            print("-> Writing to done.txt ...")
-            with open("done.txt",'a+') as g:
+            print("-> Writing to done.txt --> ",searchTerms)
+            with open(os.path.join(root,"..","done.txt"),'a+') as g:
                 g.write(searchTerms+"\n")
+        
+        exit(0)
         
     # unzip()
     # create_index()
