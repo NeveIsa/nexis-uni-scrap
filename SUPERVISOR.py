@@ -1,4 +1,5 @@
 import os
+import datetime
 
 with open("tickers.txt") as f:
     tickers = f.read().strip().split("\n")
@@ -10,12 +11,12 @@ with open("done.txt") as f:
     __done = f.read().split("\n")
 
 for ticker in tickers:
-    print(f"-------------------------- start |  {ticker} | start ------------------------------")
+    print("-------------------------- start |  {} | {} ------------------------------".format(ticker,datetime.datetime.now().isoformat()))
     
-    if f"ticker({ticker})" in __done:
+    if f"ticker({})".format(ticker) in __done:
         print("Already done -> ", ticker)
     else:
-        os.environ["SEARCHTERM"]=f"ticker({ticker})"
+        os.environ["SEARCHTERM"]="ticker({})".format(ticker)
         #os.system("sh test.sh")
         os.system("jupyter nbconvert --ExecutePreprocessor.timeout=600 --to notebook --execute scrap-clean-code.ipynb") 
-    print(f"-------------------------- end |  {ticker} | end ------------------------------")
+    print(f"-------------------------- end |  {} | {} ------------------------------".format(ticker,datetime.datetime.now().isoformat()))
