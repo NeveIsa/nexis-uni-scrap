@@ -36,5 +36,5 @@ for ticker in tickers:
             #os.system("jupyter nbconvert --ExecutePreprocessor.timeout=600 --to notebook --execute scrap-clean-code.ipynb") 
             os.system("python scrap-clean-code.py")
             time.sleep(3)
-            os.system("sh kill.sh")
+            os.system("pkill firefox")
     print("-------------------------- end |  {} | {} ------------------------------".format(ticker,datetime.datetime.now().isoformat()))
