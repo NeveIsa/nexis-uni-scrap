@@ -317,15 +317,24 @@ def download_file(searchTerms, download_folder, url = url, username = username, 
                     print("get number of articles time out")
                     raise Exception()
                 try:
-                    #N_temp = browser.find_element_by_xpath('//*[@id="content"]/header/h2/span').text
-                    N_temp = browser.find_element_by_xpath('/html/body/main/div/main/div[2]/div/div[2]/div[2]/form/div[2]/nav/ol/li[6]/a').text
+                    N_temp = browser.find_element_by_xpath('//*[@id="content"]/header/h2/span').text
                     break
                 except:
                     time.sleep(2)
             total_number = int(''.join(re.findall(r'[0-9]', N_temp)))
             print("we'll scrape down {} files related to '{}'".format(total_number, searchTerms))
-            total_page = int(np.ceil(total_number/10))
-            #total_page = total_number # updated - we now use the page numbers directly from the bottom pagination
+            print("TOTAL NUMBER ->",total_number)
+            
+            if total_number > 100:
+                # updated - we now use the page numbers directly from the bottom pagination
+                total_page = browser.find_element_by_xpath('/html/body/main/div/main/div[2]/div/div[2]/div[2]/form/div[2]/nav/ol/li[6]/a').text
+                total_page = int(total_page)
+            else:
+                total_page = int(np.ceil(total_number/10))
+                
+            print("TOTAL PAGES ->", total_page)
+            
+            #time.sleep(100)
             
             file_digit = len(str(total_page)) * 2 + 1
             for page in range(1, total_page + 1):
